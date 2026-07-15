@@ -40,5 +40,5 @@ Each notebook contains detailed steps for model training, fine-tuning, and infer
 
 We welcome contributions from the community to make this project more robust and versatile. For queries or contributions, please contact:
 
-- **Malabh Bakshi**
-- Email: [malabhbakshi61@gmail.com](mailto:malabhbakshi61@gmail.com)
+- **Neil Bakshi**
+- Email: [neilbakshi0@gmail.com](mailto:neilbakshi0@gmail.com)
